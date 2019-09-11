@@ -28,3 +28,4 @@ Then, modify the size of the output file (in pixels) and the number of epochs (i
 
 In my case, I used a photo I took of a beautiful friend (her name is Monica. Btw I'm a photographer in case you don't know) and I applied Van Gogh's "Starry Night" style.
 
+![alt text](https://github.com/joanfmendo/Neural-Style-Transfer/blob/master/example.png)
