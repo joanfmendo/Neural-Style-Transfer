@@ -1,5 +1,5 @@
 # Neural-Style-Transfer
-Following Vamshik Shetty's tutorial, this post applies the use of convolutional neural networks to "transfer style" from one image to another. What would a picture of your pet look like if it had been painted by Picasso? Let's find out!
+Following Vamshik Shetty's tutorial, this post applies the use of convolutional neural networks to "transfer style" from one image to another. What would a picture of your friend look like if it had been painted by Van Gogh? Let's find out!
 
 This is a simple script on how to use some convolutional neural networks to "transfer the style" of one picture to another. It is very simple to implement and very easy to understand.
 
