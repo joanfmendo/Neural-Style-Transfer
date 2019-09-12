@@ -5,7 +5,7 @@ This is a simple script on how to use some convolutional neural networks to "tra
 
 **I strongly recommend using Google Colab** to run these scripts, since neural networks require a lot of computing and memory capacity. The best thing is that GColab is free!! You can find a tutorial [here](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d).
 
-**HOW TO USE THIS SCRIPT**
+## HOW TO USE THIS SCRIPT
 
 First, pick up two images, one is the photo that you want to modify (it is, the one you will apply the new style), and the other contains the style that you want to apply (or to "transfer").
 
