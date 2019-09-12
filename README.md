@@ -11,14 +11,20 @@ First, pick up two images, one is the photo that you want to modify (it is, the 
 
 Next, go to these lines and modify them indicating the path to your images.
 
-```# Set up paths to style and content files
-style_path = '/path-to-the-file/style.jpg'``` Image containing the "style".
-```content_path = '/path-to-the-file/content.jpg'``` Image containing the content you want to modify by applying the selected style.
+```
+# Set up paths to style and content files
+style_path = '/path-to-the-file/style.jpg' #Image containing the "style".
+content_path = '/path-to-the-file/content.jpg' #Image containing the content you want to modify by applying the selected style.
+```
 Then, modify the size of the output file (in pixels) and the number of epochs (iterations) of the CNN algorithm.
-```# Set up the maximum dimension of the output image`
-max_dim = 1500``` Maximum size of the output file in pixels
-```# set up the number of iterations
-num_iter = 500``` Number of epochs of the training algorithm.
+```
+# Set up the maximum dimension of the output image
+max_dim = 1500
+
+# set up the number of iterations (Number of epochs of the training algorithm)
+num_iter = 500
+``` 
+
 
 In my case, I used a photo I took of a beautiful friend (her name is Monica. Btw I'm a photographer in case you don't know) and I applied Van Gogh's "Starry Night" style.
 
